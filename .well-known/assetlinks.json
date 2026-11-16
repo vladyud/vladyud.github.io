@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.evoria.cycles",
+      "sha256_cert_fingerprints": [
+        "74:37:33:2D:B1:2E:EB:D5:85:08:FA:1A:AE:7C:22:8A:43:CB:4A:8B:CD:83:D8:95:55:02:86:1B:CD:6D:4F:92",
+        "85:56:99:54:41:C5:4E:E3:3F:27:6B:64:CC:9F:01:F2:03:0E:A0:D7:17:BA:66:99:5B:21:D5:75:6C:C0:6F:38"
+      ]
+    }
+  }
+]
